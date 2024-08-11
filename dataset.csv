@@ -1,93 +1,546 @@
-PassengerId,HomePlanet,CryoSleep,Cabin,Destination,Age,VIP,RoomService,FoodCourt,ShoppingMall,Spa,VRDeck,Name,Transported
-0001_01,Europa,False,B/0/P,TRAPPIST-1e,39.0,False,0.0,0.0,0.0,0.0,0.0,Maham Ofracculy,False
-0002_01,Earth,False,F/0/S,TRAPPIST-1e,24.0,False,109.0,9.0,25.0,549.0,44.0,Juanna Vines,True
-0003_01,Europa,False,A/0/S,TRAPPIST-1e,58.0,True,43.0,3576.0,0.0,6715.0,49.0,Altark Susent,False
-0003_02,Europa,False,A/0/S,TRAPPIST-1e,33.0,False,0.0,1283.0,371.0,3329.0,193.0,Solam Susent,False
-0004_01,Earth,False,F/1/S,TRAPPIST-1e,16.0,False,303.0,70.0,151.0,565.0,2.0,Willy Santantines,True
-0005_01,Earth,False,F/0/P,PSO J318.5-22,44.0,False,0.0,483.0,0.0,291.0,0.0,Sandie Hinetthews,True
-0006_01,Earth,False,F/2/S,TRAPPIST-1e,26.0,False,42.0,1539.0,3.0,0.0,0.0,Billex Jacostaffey,True
-0006_02,Earth,True,G/0/S,TRAPPIST-1e,28.0,False,0.0,0.0,0.0,0.0,,Candra Jacostaffey,True
-0007_01,Earth,False,F/3/S,TRAPPIST-1e,35.0,False,0.0,785.0,17.0,216.0,0.0,Andona Beston,True
-0008_01,Europa,True,B/1/P,55 Cancri e,14.0,False,0.0,0.0,0.0,0.0,0.0,Erraiam Flatic,True
-0008_02,Europa,True,B/1/P,TRAPPIST-1e,34.0,False,0.0,0.0,,0.0,0.0,Altardr Flatic,True
-0008_03,Europa,False,B/1/P,55 Cancri e,45.0,False,39.0,7295.0,589.0,110.0,124.0,Wezena Flatic,True
-0009_01,Mars,False,F/1/P,TRAPPIST-1e,32.0,False,73.0,0.0,1123.0,0.0,113.0,Berers Barne,True
-0010_01,Earth,False,G/1/S,TRAPPIST-1e,48.0,False,719.0,1.0,65.0,0.0,24.0,Reney Baketton,False
-0011_01,Earth,False,F/2/P,TRAPPIST-1e,28.0,False,8.0,974.0,12.0,2.0,7.0,Elle Bertsontry,True
-0012_01,Earth,False,,TRAPPIST-1e,31.0,False,32.0,0.0,876.0,0.0,0.0,Justie Pooles,False
-0014_01,Mars,False,F/3/P,55 Cancri e,27.0,False,1286.0,122.0,,0.0,0.0,Flats Eccle,False
-0015_01,Earth,False,F/4/P,55 Cancri e,24.0,False,0.0,1.0,0.0,0.0,637.0,Carry Hughriend,False
-0016_01,Mars,True,F/5/P,TRAPPIST-1e,45.0,False,0.0,0.0,0.0,0.0,0.0,Alus Upead,True
-0017_01,Earth,False,G/0/P,TRAPPIST-1e,0.0,False,0.0,0.0,0.0,0.0,0.0,Lyde Brighttt,True
-0017_02,Earth,False,F/6/P,55 Cancri e,14.0,False,412.0,0.0,1.0,0.0,679.0,Philda Brighttt,False
-0020_01,Earth,True,E/0/S,TRAPPIST-1e,1.0,False,0.0,0.0,0.0,0.0,0.0,Almary Brantuarez,False
-0020_02,Earth,True,E/0/S,55 Cancri e,49.0,False,0.0,0.0,0.0,0.0,0.0,Glendy Brantuarez,False
-0020_03,Earth,True,E/0/S,55 Cancri e,29.0,False,0.0,0.0,,0.0,0.0,Mollen Mcfaddennon,False
-0020_04,Earth,False,E/0/S,TRAPPIST-1e,10.0,False,0.0,0.0,0.0,0.0,0.0,Breney Jacostanley,True
-0020_05,Earth,True,E/0/S,PSO J318.5-22,1.0,False,,0.0,0.0,0.0,0.0,Mael Brantuarez,False
-0020_06,Earth,False,E/0/S,TRAPPIST-1e,7.0,False,0.0,0.0,0.0,0.0,0.0,Terta Mcfaddennon,False
-0022_01,Mars,False,D/0/P,TRAPPIST-1e,21.0,False,980.0,2.0,69.0,0.0,0.0,,False
-0024_01,Europa,True,C/2/S,TRAPPIST-1e,62.0,False,0.0,0.0,,0.0,0.0,Penton Fullided,True
-0025_01,Earth,False,F/6/S,TRAPPIST-1e,15.0,False,0.0,225.0,0.0,998.0,0.0,Karard Brookenson,False
-0026_01,Europa,False,C/0/P,55 Cancri e,34.0,False,22.0,6073.0,0.0,1438.0,328.0,Anyoni Unconary,False
-0028_01,Mars,False,F/8/P,TRAPPIST-1e,43.0,False,1125.0,0.0,136.0,48.0,0.0,Ceros Mare,False
-0030_01,Earth,False,G/4/S,TRAPPIST-1e,32.0,False,0.0,850.0,81.0,437.0,453.0,Ginia Morsentley,False
-0031_01,Mars,False,F/9/P,TRAPPIST-1e,47.0,False,214.0,0.0,1411.0,0.0,1229.0,Coobix Datie,True
-0031_02,Mars,False,F/9/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Cinets Datie,True
-0031_03,Mars,False,F/9/P,TRAPPIST-1e,20.0,False,,0.0,1750.0,990.0,0.0,Dontch Datie,True
-0034_01,Europa,True,D/1/S,55 Cancri e,28.0,False,0.0,0.0,0.0,0.0,0.0,Ziba Oingwhedly,True
-0035_01,Mars,False,D/1/P,55 Cancri e,23.0,False,784.0,964.0,0.0,951.0,0.0,Luse Butte,False
-0036_01,Earth,False,F/8/S,55 Cancri e,15.0,,0.0,492.0,48.0,20.0,401.0,Marina Leodger,False
-0038_01,Earth,False,F/10/S,55 Cancri e,20.0,False,554.0,195.0,0.0,2606.0,0.0,Loise Wheelez,False
-0039_01,Earth,True,G/1/P,55 Cancri e,30.0,False,0.0,0.0,,0.0,0.0,Jorgie Batthewitt,False
-0041_01,Earth,True,G/2/P,TRAPPIST-1e,17.0,False,0.0,0.0,0.0,0.0,0.0,Margia Moodsey,True
-0043_01,Europa,False,B/3/P,TRAPPIST-1e,45.0,False,0.0,164.0,45.0,2511.0,855.0,Ankalik Cylistrand,False
-0044_01,Earth,True,G/3/P,TRAPPIST-1e,55.0,False,0.0,0.0,0.0,0.0,0.0,Jodye Coopelandez,False
-0044_02,Earth,True,G/3/P,55 Cancri e,4.0,False,0.0,0.0,0.0,0.0,0.0,Kayne Coopelandez,True
-0044_03,Earth,True,G/3/P,PSO J318.5-22,21.0,False,0.0,0.0,0.0,0.0,0.0,Cassa Coopelandez,True
-0045_01,Mars,False,F/10/P,TRAPPIST-1e,21.0,False,970.0,0.0,180.0,0.0,64.0,Zelowl Chmad,False
-0045_02,Mars,True,F/10/P,,19.0,False,0.0,0.0,0.0,0.0,0.0,Mass Chmad,True
-0050_01,Earth,False,E/1/S,55 Cancri e,35.0,False,790.0,0.0,0.0,,0.0,Sony Lancis,False
-0051_01,Earth,False,E/2/S,TRAPPIST-1e,56.0,False,0.0,112.0,0.0,1379.0,127.0,Vivia Johnshines,False
-0052_01,Earth,False,G/6/S,TRAPPIST-1e,,False,4.0,0.0,2.0,4683.0,0.0,Elaney Hubbarton,False
-0053_01,Earth,False,F/11/S,TRAPPIST-1e,25.0,False,0.0,0.0,1938.0,0.0,1.0,Elson Hickerson,True
-0056_01,Europa,False,A/1/S,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Okulas Tractive,True
-0056_02,Europa,True,A/1/S,TRAPPIST-1e,38.0,False,0.0,0.0,0.0,0.0,0.0,Instab Tractive,True
-0056_03,Europa,False,A/1/S,TRAPPIST-1e,27.0,False,279.0,605.0,3374.0,286.0,3.0,Zinoces Tractive,True
-0058_01,Earth,True,G/7/S,PSO J318.5-22,36.0,False,0.0,0.0,0.0,0.0,0.0,Warry Ayalazquez,False
-0061_01,Earth,False,F/12/S,TRAPPIST-1e,22.0,False,45.0,1096.0,148.0,1377.0,1.0,Shanya Salez,False
-0062_01,Earth,False,F/13/S,TRAPPIST-1e,62.0,False,0.0,592.0,0.0,17.0,25.0,Sterry Greeves,False
-0064_01,Mars,True,F/14/S,TRAPPIST-1e,15.0,False,0.0,0.0,0.0,0.0,0.0,,True
-0064_02,,True,E/3/S,TRAPPIST-1e,33.0,False,0.0,0.0,,0.0,0.0,Colatz Keen,True
-0066_01,Earth,False,G/6/P,TRAPPIST-1e,62.0,False,1.0,153.0,197.0,0.0,460.0,Diandy Pecketton,False
-0067_01,Earth,True,G/10/S,PSO J318.5-22,0.0,False,0.0,0.0,0.0,0.0,0.0,Ninaha Leeves,True
-0067_02,Earth,False,G/10/S,TRAPPIST-1e,18.0,False,1.0,258.0,446.0,0.0,0.0,Celine Leeves,True
-0067_03,Earth,False,F/15/S,55 Cancri e,21.0,False,1946.0,37.0,0.0,0.0,24.0,Velyne Leeves,False
-0068_01,Mars,False,E/4/S,TRAPPIST-1e,,False,793.0,0.0,2.0,253.0,0.0,Cinst Binie,False
-0069_01,Earth,False,F/16/S,TRAPPIST-1e,42.0,False,887.0,0.0,9.0,6.0,0.0,,True
-0070_01,Earth,False,F/13/P,TRAPPIST-1e,19.0,False,190.0,0.0,5.0,1.0,726.0,Meremy Brighttt,False
-0071_01,Earth,False,F/14/P,TRAPPIST-1e,17.0,False,16.0,2165.0,0.0,0.0,52.0,Nelly Dillines,False
-0072_01,Earth,False,F/17/S,TRAPPIST-1e,14.0,False,0.0,1.0,0.0,0.0,1063.0,Thell Brantuarez,False
-0073_01,Mars,False,D/3/P,PSO J318.5-22,37.0,False,46.0,83.0,738.0,0.0,12.0,Gorn Make,False
-0074_01,Europa,False,C/3/S,TRAPPIST-1e,42.0,False,1.0,8397.0,0.0,0.0,506.0,Aldibah Mostedry,True
-0076_01,Mars,False,F/18/S,TRAPPIST-1e,27.0,False,147.0,0.0,1018.0,0.0,0.0,Conk Dal,True
-0077_01,Mars,False,F/15/P,TRAPPIST-1e,28.0,False,14.0,0.0,1295.0,0.0,0.0,Pon Blité,True
-0078_01,Europa,False,C/4/S,TRAPPIST-1e,38.0,False,0.0,5840.0,0.0,321.0,9654.0,Spuri Pokerheed,False
-0081_01,Earth,True,G/13/S,TRAPPIST-1e,13.0,False,0.0,0.0,0.0,0.0,0.0,Dellie Vinozarks,False
-0082_01,Mars,False,F/16/P,TRAPPIST-1e,42.0,False,7406.0,0.0,0.0,0.0,0.0,Totse Datte,False
-0082_02,Mars,True,F/16/P,TRAPPIST-1e,2.0,False,0.0,0.0,0.0,0.0,0.0,Eaturs Datte,True
-0082_03,Mars,False,F/16/P,TRAPPIST-1e,8.0,False,0.0,0.0,0.0,0.0,0.0,,True
-0084_01,Earth,False,G/14/S,TRAPPIST-1e,24.0,False,688.0,0.0,0.0,0.0,17.0,Coren Coopezmaney,True
-0085_01,Europa,True,C/5/S,TRAPPIST-1e,40.0,False,0.0,0.0,0.0,0.0,0.0,Furudah Ellcefulve,True
-0086_01,Earth,False,F/17/P,TRAPPIST-1e,43.0,False,211.0,0.0,0.0,638.0,513.0,Jodye Kinson,False
-0088_01,Mars,True,E/5/S,PSO J318.5-22,45.0,False,0.0,0.0,0.0,0.0,0.0,Stmeal Sacre,True
-0090_01,Earth,True,G/15/S,TRAPPIST-1e,35.0,False,0.0,0.0,0.0,0.0,0.0,Heremy Santry,True
-0091_01,Earth,True,G/16/S,TRAPPIST-1e,26.0,False,,0.0,0.0,0.0,0.0,Deanne Yorkland,True
-0091_02,Earth,False,F/20/S,TRAPPIST-1e,27.0,False,1.0,697.0,31.0,188.0,0.0,Tinez Yorkland,False
-0092_01,Earth,False,G/9/P,TRAPPIST-1e,19.0,False,0.0,0.0,670.0,1.0,34.0,Gracy Dunnisey,False
-0092_02,Earth,True,G/9/P,TRAPPIST-1e,0.0,False,0.0,0.0,,0.0,0.0,Stald Hewson,True
-0092_03,Earth,True,G/9/P,TRAPPIST-1e,3.0,False,0.0,0.0,0.0,0.0,0.0,Tiney Hewson,True
-0097_01,Europa,False,A/2/S,TRAPPIST-1e,54.0,False,0.0,1208.0,0.0,3.0,637.0,Alchium Fictful,False
-0098_01,Earth,False,G/11/P,TRAPPIST-1e,26.0,False,0.0,856.0,5.0,32.0,0.0,Doria Carezquez,False
-0098_02,Earth,False,G/11/P,TRAPPIST-1e,26.0,False,0.0,2811.0,957.0,0.0,87.0,Leence Carezquez,True
-0099_01,Earth,False,F/19/P,PSO J318.5-22,23.0,False,311.0,427.0,526.0,37.0,0.0,Aliey Leetersoney,False
+price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus
+13300000,7420,4,2,3,yes,no,no,no,yes,2,yes,furnished
+12250000,8960,4,4,4,yes,no,no,no,yes,3,no,furnished
+12250000,9960,3,2,2,yes,no,yes,no,no,2,yes,semi-furnished
+12215000,7500,4,2,2,yes,no,yes,no,yes,3,yes,furnished
+11410000,7420,4,1,2,yes,yes,yes,no,yes,2,no,furnished
+10850000,7500,3,3,1,yes,no,yes,no,yes,2,yes,semi-furnished
+10150000,8580,4,3,4,yes,no,no,no,yes,2,yes,semi-furnished
+10150000,16200,5,3,2,yes,no,no,no,no,0,no,unfurnished
+9870000,8100,4,1,2,yes,yes,yes,no,yes,2,yes,furnished
+9800000,5750,3,2,4,yes,yes,no,no,yes,1,yes,unfurnished
+9800000,13200,3,1,2,yes,no,yes,no,yes,2,yes,furnished
+9681000,6000,4,3,2,yes,yes,yes,yes,no,2,no,semi-furnished
+9310000,6550,4,2,2,yes,no,no,no,yes,1,yes,semi-furnished
+9240000,3500,4,2,2,yes,no,no,yes,no,2,no,furnished
+9240000,7800,3,2,2,yes,no,no,no,no,0,yes,semi-furnished
+9100000,6000,4,1,2,yes,no,yes,no,no,2,no,semi-furnished
+9100000,6600,4,2,2,yes,yes,yes,no,yes,1,yes,unfurnished
+8960000,8500,3,2,4,yes,no,no,no,yes,2,no,furnished
+8890000,4600,3,2,2,yes,yes,no,no,yes,2,no,furnished
+8855000,6420,3,2,2,yes,no,no,no,yes,1,yes,semi-furnished
+8750000,4320,3,1,2,yes,no,yes,yes,no,2,no,semi-furnished
+8680000,7155,3,2,1,yes,yes,yes,no,yes,2,no,unfurnished
+8645000,8050,3,1,1,yes,yes,yes,no,yes,1,no,furnished
+8645000,4560,3,2,2,yes,yes,yes,no,yes,1,no,furnished
+8575000,8800,3,2,2,yes,no,no,no,yes,2,no,furnished
+8540000,6540,4,2,2,yes,yes,yes,no,yes,2,yes,furnished
+8463000,6000,3,2,4,yes,yes,yes,no,yes,0,yes,semi-furnished
+8400000,8875,3,1,1,yes,no,no,no,no,1,no,semi-furnished
+8400000,7950,5,2,2,yes,no,yes,yes,no,2,no,unfurnished
+8400000,5500,4,2,2,yes,no,yes,no,yes,1,yes,semi-furnished
+8400000,7475,3,2,4,yes,no,no,no,yes,2,no,unfurnished
+8400000,7000,3,1,4,yes,no,no,no,yes,2,no,semi-furnished
+8295000,4880,4,2,2,yes,no,no,no,yes,1,yes,furnished
+8190000,5960,3,3,2,yes,yes,yes,no,no,1,no,unfurnished
+8120000,6840,5,1,2,yes,yes,yes,no,yes,1,no,furnished
+8080940,7000,3,2,4,yes,no,no,no,yes,2,no,furnished
+8043000,7482,3,2,3,yes,no,no,yes,no,1,yes,furnished
+7980000,9000,4,2,4,yes,no,no,no,yes,2,no,furnished
+7962500,6000,3,1,4,yes,yes,no,no,yes,2,no,unfurnished
+7910000,6000,4,2,4,yes,no,no,no,yes,1,no,semi-furnished
+7875000,6550,3,1,2,yes,no,yes,no,yes,0,yes,furnished
+7840000,6360,3,2,4,yes,no,no,no,yes,0,yes,furnished
+7700000,6480,3,2,4,yes,no,no,no,yes,2,no,unfurnished
+7700000,6000,4,2,4,yes,no,no,no,no,2,no,semi-furnished
+7560000,6000,4,2,4,yes,no,no,no,yes,1,no,furnished
+7560000,6000,3,2,3,yes,no,no,no,yes,0,no,semi-furnished
+7525000,6000,3,2,4,yes,no,no,no,yes,1,no,furnished
+7490000,6600,3,1,4,yes,no,no,no,yes,3,yes,furnished
+7455000,4300,3,2,2,yes,no,yes,no,no,1,no,unfurnished
+7420000,7440,3,2,1,yes,yes,yes,no,yes,0,yes,semi-furnished
+7420000,7440,3,2,4,yes,no,no,no,no,1,yes,unfurnished
+7420000,6325,3,1,4,yes,no,no,no,yes,1,no,unfurnished
+7350000,6000,4,2,4,yes,yes,no,no,yes,1,no,furnished
+7350000,5150,3,2,4,yes,no,no,no,yes,2,no,semi-furnished
+7350000,6000,3,2,2,yes,yes,no,no,yes,1,no,semi-furnished
+7350000,6000,3,1,2,yes,no,no,no,yes,1,no,unfurnished
+7343000,11440,4,1,2,yes,no,yes,no,no,1,yes,semi-furnished
+7245000,9000,4,2,4,yes,yes,no,no,yes,1,yes,furnished
+7210000,7680,4,2,4,yes,yes,no,no,yes,1,no,semi-furnished
+7210000,6000,3,2,4,yes,yes,no,no,yes,1,no,furnished
+7140000,6000,3,2,2,yes,yes,no,no,no,1,no,semi-furnished
+7070000,8880,2,1,1,yes,no,no,no,yes,1,no,semi-furnished
+7070000,6240,4,2,2,yes,no,no,no,yes,1,no,furnished
+7035000,6360,4,2,3,yes,no,no,no,yes,2,yes,furnished
+7000000,11175,3,1,1,yes,no,yes,no,yes,1,yes,furnished
+6930000,8880,3,2,2,yes,no,yes,no,yes,1,no,furnished
+6930000,13200,2,1,1,yes,no,yes,yes,no,1,no,furnished
+6895000,7700,3,2,1,yes,no,no,no,no,2,no,unfurnished
+6860000,6000,3,1,1,yes,no,no,no,yes,1,no,furnished
+6790000,12090,4,2,2,yes,no,no,no,no,2,yes,furnished
+6790000,4000,3,2,2,yes,no,yes,no,yes,0,yes,semi-furnished
+6755000,6000,4,2,4,yes,no,no,no,yes,0,no,unfurnished
+6720000,5020,3,1,4,yes,no,no,no,yes,0,yes,unfurnished
+6685000,6600,2,2,4,yes,no,yes,no,no,0,yes,furnished
+6650000,4040,3,1,2,yes,no,yes,yes,no,1,no,furnished
+6650000,4260,4,2,2,yes,no,no,yes,no,0,no,semi-furnished
+6650000,6420,3,2,3,yes,no,no,no,yes,0,yes,furnished
+6650000,6500,3,2,3,yes,no,no,no,yes,0,yes,furnished
+6650000,5700,3,1,1,yes,yes,yes,no,yes,2,yes,furnished
+6650000,6000,3,2,3,yes,yes,no,no,yes,0,no,furnished
+6629000,6000,3,1,2,yes,no,no,yes,no,1,yes,semi-furnished
+6615000,4000,3,2,2,yes,no,yes,no,yes,1,no,semi-furnished
+6615000,10500,3,2,1,yes,no,yes,no,yes,1,yes,furnished
+6580000,6000,3,2,4,yes,no,no,no,yes,0,no,semi-furnished
+6510000,3760,3,1,2,yes,no,no,yes,no,2,no,semi-furnished
+6510000,8250,3,2,3,yes,no,no,no,yes,0,no,furnished
+6510000,6670,3,1,3,yes,no,yes,no,no,0,yes,unfurnished
+6475000,3960,3,1,1,yes,no,yes,no,no,2,no,semi-furnished
+6475000,7410,3,1,1,yes,yes,yes,no,yes,2,yes,unfurnished
+6440000,8580,5,3,2,yes,no,no,no,no,2,no,furnished
+6440000,5000,3,1,2,yes,no,no,no,yes,0,no,semi-furnished
+6419000,6750,2,1,1,yes,yes,yes,no,no,2,yes,furnished
+6405000,4800,3,2,4,yes,yes,no,no,yes,0,no,furnished
+6300000,7200,3,2,1,yes,no,yes,no,yes,3,no,semi-furnished
+6300000,6000,4,2,4,yes,no,no,no,no,1,no,semi-furnished
+6300000,4100,3,2,3,yes,no,no,no,yes,2,no,semi-furnished
+6300000,9000,3,1,1,yes,no,yes,no,no,1,yes,furnished
+6300000,6400,3,1,1,yes,yes,yes,no,yes,1,yes,semi-furnished
+6293000,6600,3,2,3,yes,no,no,no,yes,0,yes,unfurnished
+6265000,6000,4,1,3,yes,yes,yes,no,no,0,yes,unfurnished
+6230000,6600,3,2,1,yes,no,yes,no,yes,0,yes,unfurnished
+6230000,5500,3,1,3,yes,no,no,no,no,1,yes,unfurnished
+6195000,5500,3,2,4,yes,yes,no,no,yes,1,no,semi-furnished
+6195000,6350,3,2,3,yes,yes,no,no,yes,0,no,furnished
+6195000,5500,3,2,1,yes,yes,yes,no,no,2,yes,furnished
+6160000,4500,3,1,4,yes,no,no,no,yes,0,no,unfurnished
+6160000,5450,4,2,1,yes,no,yes,no,yes,0,yes,semi-furnished
+6125000,6420,3,1,3,yes,no,yes,no,no,0,yes,unfurnished
+6107500,3240,4,1,3,yes,no,no,no,no,1,no,semi-furnished
+6090000,6615,4,2,2,yes,yes,no,yes,no,1,no,semi-furnished
+6090000,6600,3,1,1,yes,yes,yes,no,no,2,yes,semi-furnished
+6090000,8372,3,1,3,yes,no,no,no,yes,2,no,unfurnished
+6083000,4300,6,2,2,yes,no,no,no,no,0,no,furnished
+6083000,9620,3,1,1,yes,no,yes,no,no,2,yes,furnished
+6020000,6800,2,1,1,yes,yes,yes,no,no,2,no,furnished
+6020000,8000,3,1,1,yes,yes,yes,no,yes,2,yes,semi-furnished
+6020000,6900,3,2,1,yes,yes,yes,no,no,0,yes,unfurnished
+5950000,3700,4,1,2,yes,yes,no,no,yes,0,no,furnished
+5950000,6420,3,1,1,yes,no,yes,no,yes,0,yes,furnished
+5950000,7020,3,1,1,yes,no,yes,no,yes,2,yes,semi-furnished
+5950000,6540,3,1,1,yes,yes,yes,no,no,2,yes,furnished
+5950000,7231,3,1,2,yes,yes,yes,no,yes,0,yes,semi-furnished
+5950000,6254,4,2,1,yes,no,yes,no,no,1,yes,semi-furnished
+5950000,7320,4,2,2,yes,no,no,no,no,0,no,furnished
+5950000,6525,3,2,4,yes,no,no,no,no,1,no,furnished
+5943000,15600,3,1,1,yes,no,no,no,yes,2,no,semi-furnished
+5880000,7160,3,1,1,yes,no,yes,no,no,2,yes,unfurnished
+5880000,6500,3,2,3,yes,no,no,no,yes,0,no,unfurnished
+5873000,5500,3,1,3,yes,yes,no,no,yes,1,no,furnished
+5873000,11460,3,1,3,yes,no,no,no,no,2,yes,semi-furnished
+5866000,4800,3,1,1,yes,yes,yes,no,no,0,no,unfurnished
+5810000,5828,4,1,4,yes,yes,no,no,no,0,no,semi-furnished
+5810000,5200,3,1,3,yes,no,no,no,yes,0,no,semi-furnished
+5810000,4800,3,1,3,yes,no,no,no,yes,0,no,unfurnished
+5803000,7000,3,1,1,yes,no,yes,no,no,2,yes,semi-furnished
+5775000,6000,3,2,4,yes,no,no,no,yes,0,no,unfurnished
+5740000,5400,4,2,2,yes,no,no,no,yes,2,no,unfurnished
+5740000,4640,4,1,2,yes,no,no,no,no,1,no,semi-furnished
+5740000,5000,3,1,3,yes,no,no,no,yes,0,no,semi-furnished
+5740000,6360,3,1,1,yes,yes,yes,no,yes,2,yes,furnished
+5740000,5800,3,2,4,yes,no,no,no,yes,0,no,unfurnished
+5652500,6660,4,2,2,yes,yes,yes,no,no,1,yes,semi-furnished
+5600000,10500,4,2,2,yes,no,no,no,no,1,no,semi-furnished
+5600000,4800,5,2,3,no,no,yes,yes,no,0,no,unfurnished
+5600000,4700,4,1,2,yes,yes,yes,no,yes,1,no,furnished
+5600000,5000,3,1,4,yes,no,no,no,no,0,no,furnished
+5600000,10500,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+5600000,5500,3,2,2,yes,no,no,no,no,1,no,semi-furnished
+5600000,6360,3,1,3,yes,no,no,no,no,0,yes,semi-furnished
+5600000,6600,4,2,1,yes,no,yes,no,no,0,yes,semi-furnished
+5600000,5136,3,1,2,yes,yes,yes,no,yes,0,yes,unfurnished
+5565000,4400,4,1,2,yes,no,no,no,yes,2,yes,semi-furnished
+5565000,5400,5,1,2,yes,yes,yes,no,yes,0,yes,furnished
+5530000,3300,3,3,2,yes,no,yes,no,no,0,no,semi-furnished
+5530000,3650,3,2,2,yes,no,no,no,no,2,no,semi-furnished
+5530000,6100,3,2,1,yes,no,yes,no,no,2,yes,furnished
+5523000,6900,3,1,1,yes,yes,yes,no,no,0,yes,semi-furnished
+5495000,2817,4,2,2,no,yes,yes,no,no,1,no,furnished
+5495000,7980,3,1,1,yes,no,no,no,no,2,no,semi-furnished
+5460000,3150,3,2,1,yes,yes,yes,no,yes,0,no,furnished
+5460000,6210,4,1,4,yes,yes,no,no,yes,0,no,furnished
+5460000,6100,3,1,3,yes,yes,no,no,yes,0,yes,semi-furnished
+5460000,6600,4,2,2,yes,yes,yes,no,no,0,yes,semi-furnished
+5425000,6825,3,1,1,yes,yes,yes,no,yes,0,yes,semi-furnished
+5390000,6710,3,2,2,yes,yes,yes,no,no,1,yes,furnished
+5383000,6450,3,2,1,yes,yes,yes,yes,no,0,no,unfurnished
+5320000,7800,3,1,1,yes,no,yes,no,yes,2,yes,unfurnished
+5285000,4600,2,2,1,yes,no,no,no,yes,2,no,semi-furnished
+5250000,4260,4,1,2,yes,no,yes,no,yes,0,no,furnished
+5250000,6540,4,2,2,no,no,no,no,yes,0,no,semi-furnished
+5250000,5500,3,2,1,yes,no,yes,no,no,0,no,semi-furnished
+5250000,10269,3,1,1,yes,no,no,no,no,1,yes,semi-furnished
+5250000,8400,3,1,2,yes,yes,yes,no,yes,2,yes,unfurnished
+5250000,5300,4,2,1,yes,no,no,no,yes,0,yes,unfurnished
+5250000,3800,3,1,2,yes,yes,yes,no,no,1,yes,unfurnished
+5250000,9800,4,2,2,yes,yes,no,no,no,2,no,semi-furnished
+5250000,8520,3,1,1,yes,no,no,no,yes,2,no,furnished
+5243000,6050,3,1,1,yes,no,yes,no,no,0,yes,semi-furnished
+5229000,7085,3,1,1,yes,yes,yes,no,no,2,yes,semi-furnished
+5215000,3180,3,2,2,yes,no,no,no,no,2,no,semi-furnished
+5215000,4500,4,2,1,no,no,yes,no,yes,2,no,semi-furnished
+5215000,7200,3,1,2,yes,yes,yes,no,no,1,yes,furnished
+5145000,3410,3,1,2,no,no,no,no,yes,0,no,semi-furnished
+5145000,7980,3,1,1,yes,no,no,no,no,1,yes,semi-furnished
+5110000,3000,3,2,2,yes,yes,yes,no,no,0,no,furnished
+5110000,3000,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+5110000,11410,2,1,2,yes,no,no,no,no,0,yes,furnished
+5110000,6100,3,1,1,yes,no,yes,no,yes,0,yes,semi-furnished
+5075000,5720,2,1,2,yes,no,no,no,yes,0,yes,unfurnished
+5040000,3540,2,1,1,no,yes,yes,no,no,0,no,semi-furnished
+5040000,7600,4,1,2,yes,no,no,no,yes,2,no,furnished
+5040000,10700,3,1,2,yes,yes,yes,no,no,0,no,semi-furnished
+5040000,6600,3,1,1,yes,yes,yes,no,no,0,yes,furnished
+5033000,4800,2,1,1,yes,yes,yes,no,no,0,no,semi-furnished
+5005000,8150,3,2,1,yes,yes,yes,no,no,0,no,semi-furnished
+4970000,4410,4,3,2,yes,no,yes,no,no,2,no,semi-furnished
+4970000,7686,3,1,1,yes,yes,yes,yes,no,0,no,semi-furnished
+4956000,2800,3,2,2,no,no,yes,no,yes,1,no,semi-furnished
+4935000,5948,3,1,2,yes,no,no,no,yes,0,no,semi-furnished
+4907000,4200,3,1,2,yes,no,no,no,no,1,no,furnished
+4900000,4520,3,1,2,yes,no,yes,no,yes,0,no,semi-furnished
+4900000,4095,3,1,2,no,yes,yes,no,yes,0,no,semi-furnished
+4900000,4120,2,1,1,yes,no,yes,no,no,1,no,semi-furnished
+4900000,5400,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+4900000,4770,3,1,1,yes,yes,yes,no,no,0,no,semi-furnished
+4900000,6300,3,1,1,yes,no,no,no,yes,2,no,semi-furnished
+4900000,5800,2,1,1,yes,yes,yes,no,yes,0,no,semi-furnished
+4900000,3000,3,1,2,yes,no,yes,no,yes,0,no,semi-furnished
+4900000,2970,3,1,3,yes,no,no,no,no,0,no,semi-furnished
+4900000,6720,3,1,1,yes,no,no,no,no,0,no,unfurnished
+4900000,4646,3,1,2,yes,yes,yes,no,no,2,no,semi-furnished
+4900000,12900,3,1,1,yes,no,no,no,no,2,no,furnished
+4893000,3420,4,2,2,yes,no,yes,no,yes,2,no,semi-furnished
+4893000,4995,4,2,1,yes,no,yes,no,no,0,no,semi-furnished
+4865000,4350,2,1,1,yes,no,yes,no,no,0,no,unfurnished
+4830000,4160,3,1,3,yes,no,no,no,no,0,no,unfurnished
+4830000,6040,3,1,1,yes,no,no,no,no,2,yes,semi-furnished
+4830000,6862,3,1,2,yes,no,no,no,yes,2,yes,furnished
+4830000,4815,2,1,1,yes,no,no,no,yes,0,yes,semi-furnished
+4795000,7000,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+4795000,8100,4,1,4,yes,no,yes,no,yes,2,no,semi-furnished
+4767000,3420,4,2,2,yes,no,no,no,no,0,no,semi-furnished
+4760000,9166,2,1,1,yes,no,yes,no,yes,2,no,semi-furnished
+4760000,6321,3,1,2,yes,no,yes,no,yes,1,no,furnished
+4760000,10240,2,1,1,yes,no,no,no,yes,2,yes,unfurnished
+4753000,6440,2,1,1,yes,no,no,no,yes,3,no,semi-furnished
+4690000,5170,3,1,4,yes,no,no,no,yes,0,no,semi-furnished
+4690000,6000,2,1,1,yes,no,yes,no,yes,1,no,furnished
+4690000,3630,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+4690000,9667,4,2,2,yes,yes,yes,no,no,1,no,semi-furnished
+4690000,5400,2,1,2,yes,no,no,no,no,0,yes,semi-furnished
+4690000,4320,3,1,1,yes,no,no,no,no,0,yes,semi-furnished
+4655000,3745,3,1,2,yes,no,yes,no,no,0,no,furnished
+4620000,4160,3,1,1,yes,yes,yes,no,yes,0,no,unfurnished
+4620000,3880,3,2,2,yes,no,yes,no,no,2,no,semi-furnished
+4620000,5680,3,1,2,yes,yes,no,no,yes,1,no,semi-furnished
+4620000,2870,2,1,2,yes,yes,yes,no,no,0,yes,semi-furnished
+4620000,5010,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+4613000,4510,4,2,2,yes,no,yes,no,no,0,no,semi-furnished
+4585000,4000,3,1,2,yes,no,no,no,no,1,no,furnished
+4585000,3840,3,1,2,yes,no,no,no,no,1,yes,semi-furnished
+4550000,3760,3,1,1,yes,no,no,no,no,2,no,semi-furnished
+4550000,3640,3,1,2,yes,no,no,no,yes,0,no,furnished
+4550000,2550,3,1,2,yes,no,yes,no,no,0,no,furnished
+4550000,5320,3,1,2,yes,yes,yes,no,no,0,yes,semi-furnished
+4550000,5360,3,1,2,yes,no,no,no,no,2,yes,unfurnished
+4550000,3520,3,1,1,yes,no,no,no,no,0,yes,semi-furnished
+4550000,8400,4,1,4,yes,no,no,no,no,3,no,unfurnished
+4543000,4100,2,2,1,yes,yes,yes,no,no,0,no,semi-furnished
+4543000,4990,4,2,2,yes,yes,yes,no,no,0,yes,furnished
+4515000,3510,3,1,3,yes,no,no,no,no,0,no,semi-furnished
+4515000,3450,3,1,2,yes,no,yes,no,no,1,no,semi-furnished
+4515000,9860,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+4515000,3520,2,1,2,yes,no,no,no,no,0,yes,furnished
+4480000,4510,4,1,2,yes,no,no,no,yes,2,no,semi-furnished
+4480000,5885,2,1,1,yes,no,no,no,yes,1,no,unfurnished
+4480000,4000,3,1,2,yes,no,no,no,no,2,no,furnished
+4480000,8250,3,1,1,yes,no,no,no,no,0,no,furnished
+4480000,4040,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4473000,6360,2,1,1,yes,no,yes,no,yes,1,no,furnished
+4473000,3162,3,1,2,yes,no,no,no,yes,1,no,furnished
+4473000,3510,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+4445000,3750,2,1,1,yes,yes,yes,no,no,0,no,semi-furnished
+4410000,3968,3,1,2,no,no,no,no,no,0,no,semi-furnished
+4410000,4900,2,1,2,yes,no,yes,no,no,0,no,semi-furnished
+4403000,2880,3,1,2,yes,no,no,no,no,0,yes,semi-furnished
+4403000,4880,3,1,1,yes,no,no,no,no,2,yes,unfurnished
+4403000,4920,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4382000,4950,4,1,2,yes,no,no,no,yes,0,no,semi-furnished
+4375000,3900,3,1,2,yes,no,no,no,no,0,no,unfurnished
+4340000,4500,3,2,3,yes,no,no,yes,no,1,no,furnished
+4340000,1905,5,1,2,no,no,yes,no,no,0,no,semi-furnished
+4340000,4075,3,1,1,yes,yes,yes,no,no,2,no,semi-furnished
+4340000,3500,4,1,2,yes,no,no,no,no,2,no,furnished
+4340000,6450,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+4319000,4032,2,1,1,yes,no,yes,no,no,0,no,furnished
+4305000,4400,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+4305000,10360,2,1,1,yes,no,no,no,no,1,yes,semi-furnished
+4277000,3400,3,1,2,yes,no,yes,no,no,2,yes,semi-furnished
+4270000,6360,2,1,1,yes,no,no,no,no,0,no,furnished
+4270000,6360,2,1,2,yes,no,no,no,no,0,no,unfurnished
+4270000,4500,2,1,1,yes,no,no,no,yes,2,no,furnished
+4270000,2175,3,1,2,no,yes,yes,no,yes,0,no,unfurnished
+4270000,4360,4,1,2,yes,no,no,no,no,0,no,furnished
+4270000,7770,2,1,1,yes,no,no,no,no,1,no,furnished
+4235000,6650,3,1,2,yes,yes,no,no,no,0,no,semi-furnished
+4235000,2787,3,1,1,yes,no,yes,no,no,0,yes,furnished
+4200000,5500,3,1,2,yes,no,no,no,yes,0,no,unfurnished
+4200000,5040,3,1,2,yes,no,yes,no,yes,0,no,unfurnished
+4200000,5850,2,1,1,yes,yes,yes,no,no,2,no,semi-furnished
+4200000,2610,4,3,2,no,no,no,no,no,0,no,semi-furnished
+4200000,2953,3,1,2,yes,no,yes,no,yes,0,no,unfurnished
+4200000,2747,4,2,2,no,no,no,no,no,0,no,semi-furnished
+4200000,4410,2,1,1,no,no,no,no,no,1,no,unfurnished
+4200000,4000,4,2,2,no,no,no,no,no,0,no,semi-furnished
+4200000,2325,3,1,2,no,no,no,no,no,0,no,semi-furnished
+4200000,4600,3,2,2,yes,no,no,no,yes,1,no,semi-furnished
+4200000,3640,3,2,2,yes,no,yes,no,no,0,no,unfurnished
+4200000,5800,3,1,1,yes,no,no,yes,no,2,no,semi-furnished
+4200000,7000,3,1,1,yes,no,no,no,no,3,no,furnished
+4200000,4079,3,1,3,yes,no,no,no,no,0,no,semi-furnished
+4200000,3520,3,1,2,yes,no,no,no,no,0,yes,semi-furnished
+4200000,2145,3,1,3,yes,no,no,no,no,1,yes,unfurnished
+4200000,4500,3,1,1,yes,no,yes,no,no,0,no,furnished
+4193000,8250,3,1,1,yes,no,yes,no,no,3,no,semi-furnished
+4193000,3450,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4165000,4840,3,1,2,yes,no,no,no,no,1,no,semi-furnished
+4165000,4080,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+4165000,4046,3,1,2,yes,no,yes,no,no,1,no,semi-furnished
+4130000,4632,4,1,2,yes,no,no,no,yes,0,no,semi-furnished
+4130000,5985,3,1,1,yes,no,yes,no,no,0,no,semi-furnished
+4123000,6060,2,1,1,yes,no,yes,no,no,1,no,semi-furnished
+4098500,3600,3,1,1,yes,no,yes,no,yes,0,yes,furnished
+4095000,3680,3,2,2,yes,no,no,no,no,0,no,semi-furnished
+4095000,4040,2,1,2,yes,no,no,no,no,1,no,semi-furnished
+4095000,5600,2,1,1,yes,no,no,no,yes,0,no,semi-furnished
+4060000,5900,4,2,2,no,no,yes,no,no,1,no,unfurnished
+4060000,4992,3,2,2,yes,no,no,no,no,2,no,unfurnished
+4060000,4340,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+4060000,3000,4,1,3,yes,no,yes,no,yes,2,no,semi-furnished
+4060000,4320,3,1,2,yes,no,no,no,no,2,yes,furnished
+4025000,3630,3,2,2,yes,no,no,yes,no,2,no,semi-furnished
+4025000,3460,3,2,1,yes,no,yes,no,yes,1,no,furnished
+4025000,5400,3,1,1,yes,no,no,no,no,3,no,semi-furnished
+4007500,4500,3,1,2,no,no,yes,no,yes,0,no,semi-furnished
+4007500,3460,4,1,2,yes,no,no,no,yes,0,no,semi-furnished
+3990000,4100,4,1,1,no,no,yes,no,no,0,no,unfurnished
+3990000,6480,3,1,2,no,no,no,no,yes,1,no,semi-furnished
+3990000,4500,3,2,2,no,no,yes,no,yes,0,no,semi-furnished
+3990000,3960,3,1,2,yes,no,no,no,no,0,no,furnished
+3990000,4050,2,1,2,yes,yes,yes,no,no,0,yes,unfurnished
+3920000,7260,3,2,1,yes,yes,yes,no,no,3,no,furnished
+3920000,5500,4,1,2,yes,yes,yes,no,no,0,no,semi-furnished
+3920000,3000,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+3920000,3290,2,1,1,yes,no,no,yes,no,1,no,furnished
+3920000,3816,2,1,1,yes,no,yes,no,yes,2,no,furnished
+3920000,8080,3,1,1,yes,no,no,no,yes,2,no,semi-furnished
+3920000,2145,4,2,1,yes,no,yes,no,no,0,yes,unfurnished
+3885000,3780,2,1,2,yes,yes,yes,no,no,0,no,semi-furnished
+3885000,3180,4,2,2,yes,no,no,no,no,0,no,furnished
+3850000,5300,5,2,2,yes,no,no,no,no,0,no,semi-furnished
+3850000,3180,2,2,1,yes,no,yes,no,no,2,no,semi-furnished
+3850000,7152,3,1,2,yes,no,no,no,yes,0,no,furnished
+3850000,4080,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3850000,3850,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3850000,2015,3,1,2,yes,no,yes,no,no,0,yes,semi-furnished
+3850000,2176,2,1,2,yes,yes,no,no,no,0,yes,semi-furnished
+3836000,3350,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3815000,3150,2,2,1,no,no,yes,no,no,0,no,semi-furnished
+3780000,4820,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+3780000,3420,2,1,2,yes,no,no,yes,no,1,no,semi-furnished
+3780000,3600,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3780000,5830,2,1,1,yes,no,no,no,no,2,no,unfurnished
+3780000,2856,3,1,3,yes,no,no,no,no,0,yes,furnished
+3780000,8400,2,1,1,yes,no,no,no,no,1,no,furnished
+3773000,8250,3,1,1,yes,no,no,no,no,2,no,furnished
+3773000,2520,5,2,1,no,no,yes,no,yes,1,no,furnished
+3773000,6930,4,1,2,no,no,no,no,no,1,no,furnished
+3745000,3480,2,1,1,yes,no,no,no,no,0,yes,semi-furnished
+3710000,3600,3,1,1,yes,no,no,no,no,1,no,unfurnished
+3710000,4040,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3710000,6020,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+3710000,4050,2,1,1,yes,no,no,no,no,0,no,furnished
+3710000,3584,2,1,1,yes,no,no,yes,no,0,no,semi-furnished
+3703000,3120,3,1,2,no,no,yes,yes,no,0,no,semi-furnished
+3703000,5450,2,1,1,yes,no,no,no,no,0,no,furnished
+3675000,3630,2,1,1,yes,no,yes,no,no,0,no,furnished
+3675000,3630,2,1,1,yes,no,no,no,yes,0,no,unfurnished
+3675000,5640,2,1,1,no,no,no,no,no,0,no,semi-furnished
+3675000,3600,2,1,1,yes,no,no,no,no,0,no,furnished
+3640000,4280,2,1,1,yes,no,no,no,yes,2,no,semi-furnished
+3640000,3570,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+3640000,3180,3,1,2,no,no,yes,no,no,0,no,semi-furnished
+3640000,3000,2,1,2,yes,no,no,no,yes,0,no,furnished
+3640000,3520,2,2,1,yes,no,yes,no,no,0,no,semi-furnished
+3640000,5960,3,1,2,yes,yes,yes,no,no,0,no,unfurnished
+3640000,4130,3,2,2,yes,no,no,no,no,2,no,semi-furnished
+3640000,2850,3,2,2,no,no,yes,no,no,0,yes,unfurnished
+3640000,2275,3,1,3,yes,no,no,yes,yes,0,yes,semi-furnished
+3633000,3520,3,1,1,yes,no,no,no,no,2,yes,unfurnished
+3605000,4500,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3605000,4000,2,1,1,yes,no,no,no,no,0,yes,semi-furnished
+3570000,3150,3,1,2,yes,no,yes,no,no,0,no,furnished
+3570000,4500,4,2,2,yes,no,yes,no,no,2,no,furnished
+3570000,4500,2,1,1,no,no,no,no,no,0,no,furnished
+3570000,3640,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3535000,3850,3,1,1,yes,no,no,no,no,2,no,unfurnished
+3500000,4240,3,1,2,yes,no,no,no,yes,0,no,semi-furnished
+3500000,3650,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3500000,4600,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+3500000,2135,3,2,2,no,no,no,no,no,0,no,unfurnished
+3500000,3036,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+3500000,3990,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+3500000,7424,3,1,1,no,no,no,no,no,0,no,unfurnished
+3500000,3480,3,1,1,no,no,no,no,yes,0,no,unfurnished
+3500000,3600,6,1,2,yes,no,no,no,no,1,no,unfurnished
+3500000,3640,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+3500000,5900,2,1,1,yes,no,no,no,no,1,no,furnished
+3500000,3120,3,1,2,yes,no,no,no,no,1,no,unfurnished
+3500000,7350,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+3500000,3512,2,1,1,yes,no,no,no,no,1,yes,unfurnished
+3500000,9500,3,1,2,yes,no,no,no,no,3,yes,unfurnished
+3500000,5880,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3500000,12944,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3493000,4900,3,1,2,no,no,no,no,no,0,no,unfurnished
+3465000,3060,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3465000,5320,2,1,1,yes,no,no,no,no,1,yes,unfurnished
+3465000,2145,3,1,3,yes,no,no,no,no,0,yes,furnished
+3430000,4000,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3430000,3185,2,1,1,yes,no,no,no,no,2,no,unfurnished
+3430000,3850,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3430000,2145,3,1,3,yes,no,no,no,no,0,yes,furnished
+3430000,2610,3,1,2,yes,no,yes,no,no,0,yes,unfurnished
+3430000,1950,3,2,2,yes,no,yes,no,no,0,yes,unfurnished
+3423000,4040,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3395000,4785,3,1,2,yes,yes,yes,no,yes,1,no,furnished
+3395000,3450,3,1,1,yes,no,yes,no,no,2,no,unfurnished
+3395000,3640,2,1,1,yes,no,no,no,no,0,no,furnished
+3360000,3500,4,1,2,yes,no,no,no,yes,2,no,unfurnished
+3360000,4960,4,1,3,no,no,no,no,no,0,no,semi-furnished
+3360000,4120,2,1,2,yes,no,no,no,no,0,no,unfurnished
+3360000,4750,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3360000,3720,2,1,1,no,no,no,no,yes,0,no,unfurnished
+3360000,3750,3,1,1,yes,no,no,no,no,0,no,unfurnished
+3360000,3100,3,1,2,no,no,yes,no,no,0,no,semi-furnished
+3360000,3185,2,1,1,yes,no,yes,no,no,2,no,furnished
+3353000,2700,3,1,1,no,no,no,no,no,0,no,furnished
+3332000,2145,3,1,2,yes,no,yes,no,no,0,yes,furnished
+3325000,4040,2,1,1,yes,no,no,no,no,1,no,unfurnished
+3325000,4775,4,1,2,yes,no,no,no,no,0,no,unfurnished
+3290000,2500,2,1,1,no,no,no,no,yes,0,no,unfurnished
+3290000,3180,4,1,2,yes,no,yes,no,yes,0,no,unfurnished
+3290000,6060,3,1,1,yes,yes,yes,no,no,0,no,furnished
+3290000,3480,4,1,2,no,no,no,no,no,1,no,semi-furnished
+3290000,3792,4,1,2,yes,no,no,no,no,0,no,semi-furnished
+3290000,4040,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3290000,2145,3,1,2,yes,no,yes,no,no,0,yes,furnished
+3290000,5880,3,1,1,yes,no,no,no,no,1,no,unfurnished
+3255000,4500,2,1,1,no,no,no,no,no,0,no,semi-furnished
+3255000,3930,2,1,1,no,no,no,no,no,0,no,unfurnished
+3234000,3640,4,1,2,yes,no,yes,no,no,0,no,unfurnished
+3220000,4370,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3220000,2684,2,1,1,yes,no,no,no,yes,1,no,unfurnished
+3220000,4320,3,1,1,no,no,no,no,no,1,no,unfurnished
+3220000,3120,3,1,2,no,no,no,no,no,0,no,furnished
+3150000,3450,1,1,1,yes,no,no,no,no,0,no,furnished
+3150000,3986,2,2,1,no,yes,yes,no,no,1,no,unfurnished
+3150000,3500,2,1,1,no,no,yes,no,no,0,no,semi-furnished
+3150000,4095,2,1,1,yes,no,no,no,no,2,no,semi-furnished
+3150000,1650,3,1,2,no,no,yes,no,no,0,no,unfurnished
+3150000,3450,3,1,2,yes,no,yes,no,no,0,no,semi-furnished
+3150000,6750,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3150000,9000,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+3150000,3069,2,1,1,yes,no,no,no,no,1,no,unfurnished
+3143000,4500,3,1,2,yes,no,no,no,yes,0,no,unfurnished
+3129000,5495,3,1,1,yes,no,yes,no,no,0,no,unfurnished
+3118850,2398,3,1,1,yes,no,no,no,no,0,yes,semi-furnished
+3115000,3000,3,1,1,no,no,no,no,yes,0,no,unfurnished
+3115000,3850,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3115000,3500,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3087000,8100,2,1,1,yes,no,no,no,no,1,no,unfurnished
+3080000,4960,2,1,1,yes,no,yes,no,yes,0,no,unfurnished
+3080000,2160,3,1,2,no,no,yes,no,no,0,no,semi-furnished
+3080000,3090,2,1,1,yes,yes,yes,no,no,0,no,unfurnished
+3080000,4500,2,1,2,yes,no,no,yes,no,1,no,semi-furnished
+3045000,3800,2,1,1,yes,no,no,no,no,0,no,unfurnished
+3010000,3090,3,1,2,no,no,no,no,no,0,no,semi-furnished
+3010000,3240,3,1,2,yes,no,no,no,no,2,no,semi-furnished
+3010000,2835,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+3010000,4600,2,1,1,yes,no,no,no,no,0,no,furnished
+3010000,5076,3,1,1,no,no,no,no,no,0,no,unfurnished
+3010000,3750,3,1,2,yes,no,no,no,no,0,no,unfurnished
+3010000,3630,4,1,2,yes,no,no,no,no,3,no,semi-furnished
+3003000,8050,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2975000,4352,4,1,2,no,no,no,no,no,1,no,unfurnished
+2961000,3000,2,1,2,yes,no,no,no,no,0,no,semi-furnished
+2940000,5850,3,1,2,yes,no,yes,no,no,1,no,unfurnished
+2940000,4960,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2940000,3600,3,1,2,no,no,no,no,no,1,no,unfurnished
+2940000,3660,4,1,2,no,no,no,no,no,0,no,unfurnished
+2940000,3480,3,1,2,no,no,no,no,no,1,no,semi-furnished
+2940000,2700,2,1,1,no,no,no,no,no,0,no,furnished
+2940000,3150,3,1,2,no,no,no,no,no,0,no,unfurnished
+2940000,6615,3,1,2,yes,no,no,no,no,0,no,semi-furnished
+2870000,3040,2,1,1,no,no,no,no,no,0,no,unfurnished
+2870000,3630,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2870000,6000,2,1,1,yes,no,no,no,no,0,no,semi-furnished
+2870000,5400,4,1,2,yes,no,no,no,no,0,no,unfurnished
+2852500,5200,4,1,3,yes,no,no,no,no,0,no,unfurnished
+2835000,3300,3,1,2,no,no,no,no,no,1,no,semi-furnished
+2835000,4350,3,1,2,no,no,no,yes,no,1,no,unfurnished
+2835000,2640,2,1,1,no,no,no,no,no,1,no,furnished
+2800000,2650,3,1,2,yes,no,yes,no,no,1,no,unfurnished
+2800000,3960,3,1,1,yes,no,no,no,no,0,no,furnished
+2730000,6800,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2730000,4000,3,1,2,yes,no,no,no,no,1,no,unfurnished
+2695000,4000,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2660000,3934,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2660000,2000,2,1,2,yes,no,no,no,no,0,no,semi-furnished
+2660000,3630,3,3,2,no,yes,no,no,no,0,no,unfurnished
+2660000,2800,3,1,1,yes,no,no,no,no,0,no,unfurnished
+2660000,2430,3,1,1,no,no,no,no,no,0,no,unfurnished
+2660000,3480,2,1,1,yes,no,no,no,no,1,no,semi-furnished
+2660000,4000,3,1,1,yes,no,no,no,no,0,no,semi-furnished
+2653000,3185,2,1,1,yes,no,no,no,yes,0,no,unfurnished
+2653000,4000,3,1,2,yes,no,no,no,yes,0,no,unfurnished
+2604000,2910,2,1,1,no,no,no,no,no,0,no,unfurnished
+2590000,3600,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2590000,4400,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2590000,3600,2,2,2,yes,no,yes,no,no,1,no,furnished
+2520000,2880,3,1,1,no,no,no,no,no,0,no,unfurnished
+2520000,3180,3,1,1,no,no,no,no,no,0,no,unfurnished
+2520000,3000,2,1,2,yes,no,no,no,no,0,no,furnished
+2485000,4400,3,1,2,yes,no,no,no,no,0,no,unfurnished
+2485000,3000,3,1,2,no,no,no,no,no,0,no,semi-furnished
+2450000,3210,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+2450000,3240,2,1,1,no,yes,no,no,no,1,no,unfurnished
+2450000,3000,2,1,1,yes,no,no,no,no,1,no,unfurnished
+2450000,3500,2,1,1,yes,yes,no,no,no,0,no,unfurnished
+2450000,4840,2,1,2,yes,no,no,no,no,0,no,unfurnished
+2450000,7700,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2408000,3635,2,1,1,no,no,no,no,no,0,no,unfurnished
+2380000,2475,3,1,2,yes,no,no,no,no,0,no,furnished
+2380000,2787,4,2,2,yes,no,no,no,no,0,no,furnished
+2380000,3264,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2345000,3640,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2310000,3180,2,1,1,yes,no,no,no,no,0,no,unfurnished
+2275000,1836,2,1,1,no,no,yes,no,no,0,no,semi-furnished
+2275000,3970,1,1,1,no,no,no,no,no,0,no,unfurnished
+2275000,3970,3,1,2,yes,no,yes,no,no,0,no,unfurnished
+2240000,1950,3,1,1,no,no,no,yes,no,0,no,unfurnished
+2233000,5300,3,1,1,no,no,no,no,yes,0,yes,unfurnished
+2135000,3000,2,1,1,no,no,no,no,no,0,no,unfurnished
+2100000,2400,3,1,2,yes,no,no,no,no,0,no,unfurnished
+2100000,3000,4,1,2,yes,no,no,no,no,0,no,unfurnished
+2100000,3360,2,1,1,yes,no,no,no,no,1,no,unfurnished
+1960000,3420,5,1,2,no,no,no,no,no,0,no,unfurnished
+1890000,1700,3,1,2,yes,no,no,no,no,0,no,unfurnished
+1890000,3649,2,1,1,yes,no,no,no,no,0,no,unfurnished
+1855000,2990,2,1,1,no,no,no,no,no,1,no,unfurnished
+1820000,3000,2,1,1,yes,no,yes,no,no,2,no,unfurnished
+1767150,2400,3,1,1,no,no,no,no,no,0,no,semi-furnished
+1750000,3620,2,1,1,yes,no,no,no,no,0,no,unfurnished
+1750000,2910,3,1,1,no,no,no,no,no,0,no,furnished
+1750000,3850,3,1,2,yes,no,no,no,no,0,no,unfurnished
